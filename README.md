@@ -8,15 +8,15 @@
 [![Reference Status](https://www.versioneye.com/nodejs/eslint-watch/reference_badge.svg?style=flat-square)](https://www.versioneye.com/nodejs/eslint-watch/references)
 
 Donate:
-  (Ƀitcoin): `13V7iDxBhnFASw7avGGRk64ExDGTirhx37`
-  (PayPal): [https://www.paypal.me/rizowski](https://www.paypal.me/rizowski)
+  - (Ƀitcoin): `13V7iDxBhnFASw7avGGRk64ExDGTirhx37`
+  - (PayPal): [https://www.paypal.me/rizowski](https://www.paypal.me/rizowski)
 
 Don't want to import Webpack, Grunt, or some other task package into your project? Then this is the tool for you.
 Eslint Watch is a simple command line tool that wraps [Eslint](https://www.npmjs.com/package/eslint). Eslint Watch provides file watching and command line improvements to the currently existing Eslint command line interface. All commands that Eslint offers can be used with the addition of a watch command and a couple new templating views. Don't believe me? Checkout the [code](https://github.com/rizowski/eslint-watch) or some of the features below!
 
 ## Requirements
 To use this tool we require eslint to be installed on your project. The versions supported are:
-  - `"eslint": ">=0.19.0 <4.0.0"`
+  - `"eslint": ">=0.19.0 <5.0.0"`
   - `node >= 4.0.0`
 
 ## Getting started
